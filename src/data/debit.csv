@@ -1,0 +1,4 @@
+Date,Description,Out,In,Flag1,Flag2,Kaveh,Negar,Card
+01-04-2025,"RENT PAYMENT",2500,,rent,,0.5,0.5,Kaveh_Debit
+15-04-2025,"HYDRO PAYMENT",75.50,,household_exp,,0.5,0.5,Kaveh_Debit
+20-04-2025,"INTERNET PAYMENT",89.99,,household_exp,,0.5,0.5,Kaveh_Debit
